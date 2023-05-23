@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/voodoo_TestTask/static/css/main.073c9b0a.css",
-    "main.js": "/voodoo_TestTask/static/js/main.201a6b8c.js",
-    "static/js/787.2048b3ed.chunk.js": "/voodoo_TestTask/static/js/787.2048b3ed.chunk.js",
-    "static/media/logo.svg": "/voodoo_TestTask/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/voodoo_TestTask/static/css/main.9e5149fb.css",
+    "main.js": "/voodoo_TestTask/static/js/main.138159ba.js",
+    "static/media/SpaceMono-Bold.ttf": "/voodoo_TestTask/static/media/SpaceMono-Bold.2d0dbf42750207f78ffa.ttf",
+    "static/media/SpaceGrotesk-Medium.ttf": "/voodoo_TestTask/static/media/SpaceGrotesk-Medium.c71e15d5ceb1c9e6e05d.ttf",
+    "static/media/SpaceGrotesk-Light.ttf": "/voodoo_TestTask/static/media/SpaceGrotesk-Light.54107b8cb1f2e49f3e09.ttf",
+    "static/media/SpaceGrotesk-Regular.ttf": "/voodoo_TestTask/static/media/SpaceGrotesk-Regular.112c71329269f153245f.ttf",
+    "static/media/SpaceGrotesk-SemiBold.ttf": "/voodoo_TestTask/static/media/SpaceGrotesk-SemiBold.0bf562d8da03303b0011.ttf",
+    "static/media/SpaceGrotesk-Bold.ttf": "/voodoo_TestTask/static/media/SpaceGrotesk-Bold.8fe005a29677859f9981.ttf",
+    "static/media/header_logo.png": "/voodoo_TestTask/static/media/header_logo.9208aa3b2dcb233260c9.png",
     "index.html": "/voodoo_TestTask/index.html",
-    "main.073c9b0a.css.map": "/voodoo_TestTask/static/css/main.073c9b0a.css.map",
-    "main.201a6b8c.js.map": "/voodoo_TestTask/static/js/main.201a6b8c.js.map",
-    "787.2048b3ed.chunk.js.map": "/voodoo_TestTask/static/js/787.2048b3ed.chunk.js.map"
+    "main.9e5149fb.css.map": "/voodoo_TestTask/static/css/main.9e5149fb.css.map",
+    "main.138159ba.js.map": "/voodoo_TestTask/static/js/main.138159ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.201a6b8c.js"
+    "static/css/main.9e5149fb.css",
+    "static/js/main.138159ba.js"
   ]
 }
